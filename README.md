@@ -1,1 +1,1 @@
-<h1>Estudo através de orientação a objetos e canvas com jogo simples de Ping-Pong</h1>
+<h3>Estudo de orientação a objetos e canvas com jogo simples de Ping-Pong</h3>
